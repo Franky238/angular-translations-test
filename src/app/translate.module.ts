@@ -28,7 +28,7 @@ export function HttpLoaderFactory(
   imports: [
     CommonModule,
     SharedCoreTranslateModule.forRoot({
-      defaultLanguage: 'en',
+      defaultLanguage: 'fr',
       loader: {
         provide: SharedCoreTranslateLoader,
         useFactory: HttpLoaderFactory,
