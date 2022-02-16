@@ -1,5 +1,6 @@
 {
   "LAZY": {
-    "TEXT": "Lazy text from module"
+    "TEXT": "Lazy text from module",
+    "WITH_VALUE": "Some text with {{value}}"
   }
 }
