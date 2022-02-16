@@ -69,6 +69,7 @@ export class TranslateModule {
     sourceModule?: string
   ): ModuleWithProviders<TranslateModule> {
     return SharedCoreTranslateModule.forChild({
+      defaultLanguage: 'fr',
       loader: {
         provide: SharedCoreTranslateLoader,
         useFactory: (http: HttpClient) => HttpLoaderFactory(http, sourceModule),
