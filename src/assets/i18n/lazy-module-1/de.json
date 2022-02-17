@@ -1,6 +1,6 @@
 {
   "LAZY": {
     "TEXT": "Fauler Text aus dem Modul",
-    "WITH_VALUE": "Etwas Text mit {{value}}"
+    "WITH_VALUE": "Etwas Text mait {{value}}"
   }
 }
