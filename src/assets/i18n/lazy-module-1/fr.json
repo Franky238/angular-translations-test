@@ -1,0 +1,6 @@
+{
+  "LAZY": {
+    "TEXT": "Texte paresseux du module",
+    "WITH_VALUE": "Du texte avec {{value}}"
+  }
+}
