@@ -1,6 +1,6 @@
 {
   "LAZY": {
-    "TEXT": "Lazy text from module",
-    "WITH_VALUE": "Some text with {{value}}"
+    "TEXT": "Clinical Data",
+    "WITH_VALUE": "We need {value} characters"
   }
 }
